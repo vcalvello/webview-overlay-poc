@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "flowics-poc",
+    "slug": "flowics-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  },
+  "name": "flowics-poc"
+}
